@@ -48,44 +48,44 @@ Feb 26
 : - Mixed precision training
   - Parameter-efficient finetuning
 
-Mar 4
+Mar 5
 : Scaling language models
   : 
 : - Scaling laws
   - Emergent capabilities 
 
-Mar 11
+Mar 12
 : Post-training of language models (basics)
   : 
 : - Instruction tuning
   - RLHF basics
 
-Mar 18
+Mar 19
 : Post-training of language models (advanced)
   : **HW 3 due**{: .label .label-red }  **HW 4 out**{: .label .label-green }
 : - Advanced RLHF techniques
   - Alignment
 
-Mar 25
+Mar 26
 : *Spring Break - No Lecture*
 
-Apr 1
+Apr 2
 : Benchmarking and evaluation
   : 
 : 
 
-Apr 8
+Apr 9
 : **Guest lecture**{: .label .label-purple } retrieval-augmented LM by Sewon Min (UC Berkeley)
   : **HW 4 due**{: .label .label-red }
 
-Apr 15
+Apr 16
 : **Guest lecture**{: .label .label-purple } pretraining data by Hector Liu (MBZUAI)
   : 
 
-Apr 22
+Apr 23
 : **Guest lecture**{: .label .label-purple } LM agent by Yu Su (OSU)
   : 
 
-Apr 29
+Apr 30
 : **Guest lecture**{: .label .label-purple } Qwen models by Junyang Lin (Alibaba)
   : 
