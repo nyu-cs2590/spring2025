@@ -17,7 +17,7 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Section leader' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'TA' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 ## Teaching Assistants
@@ -27,10 +27,3 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {% endfor %}
 {% endif %}
 
-{% assign graders = site.staffers | where: 'role', 'Grader' %}
-{% assign num_graders = graders | size %}
-{% if num_graders != 0 %}
-{% for staffer in graders %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
