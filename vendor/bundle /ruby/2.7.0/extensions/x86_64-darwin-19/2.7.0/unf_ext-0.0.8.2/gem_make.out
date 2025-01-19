@@ -1,0 +1,16 @@
+current directory: /Users/hehe/teaching/cs2590/fall2023/vendor/bundle /ruby/2.7.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/Users/hehe/.rbenv/versions/2.7.1/bin/ruby -I /Users/hehe/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20230904-73278-1ol1c0q.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/hehe/teaching/cs2590/fall2023/vendor/bundle /ruby/2.7.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /Users/hehe/teaching/cs2590/fall2023/vendor/bundle /ruby/2.7.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/hehe/teaching/cs2590/fall2023/vendor/bundle /ruby/2.7.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make "DESTDIR=" install
+/usr/local/opt/coreutils/libexec/gnubin/install -c -m 0755 unf_ext.bundle ./.gem.20230904-73278-r84an0
