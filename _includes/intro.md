@@ -34,7 +34,7 @@ Students are expected to have a solid mathematics background and strong programm
 ## Grading
 
 - **Assignments (60%)**: There will be four assignments, each counting 15%.
-- **Quizzes (15%)**: There will be a quiz after each of the four guest lectures.
+- **Quizzes (15%)**: There will be a quiz after each guest lecture.
 - **Final exam (25%)**: There will be an online final exam.
 
 ## Coursework
