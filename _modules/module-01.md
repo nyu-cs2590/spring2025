@@ -49,10 +49,10 @@ Feb 26
   - Parameter-efficient finetuning
 
 Mar 5
-: Scaling language models
+: **Guest lecture**{: .label .label-purple } Scaling language models by Nick Lourie
   : 
-: - Scaling laws
-  - Emergent capabilities 
+: - Emergent capabilities 
+  - Scaling laws
 
 Mar 12
 : Post-training of language models (basics)
