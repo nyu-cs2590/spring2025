@@ -6,4 +6,4 @@ website: https://www.linkedin.com/in/arun-purohit-24489a188/
 photo: arun.png
 ---
 
-Office hour: 
+Office hour: Monday 4:00pm-5:00pm (Room will be updated)
