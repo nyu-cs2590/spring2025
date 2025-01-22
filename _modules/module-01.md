@@ -4,7 +4,7 @@ title: Course Schedule
 
 Jan 22
 : Text classification
-  : **HW 1 out**{: .label .label-green }
+  : **HW 1 out**{: .label .label-green }[HW1](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/assignment/hw1/hw1.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/spring2025/assignment/hw1/hw1.pdf)
 : - Supervised learning basics
   - Feature-based text classification
   - Additional readings

@@ -1,9 +1,10 @@
 ---
 name: Xiang Pan 
 role: TA 
-email: xp2030@nyu.edu 
-website: https://xiangpan.netlify.app/#posts 
+email: xiangpan@nyu.edu 
+website: https://xiangpan.netlify.app
 photo: xiang.jpg
 ---
 
 Office hour: 
+Wednesday 9-10 AM (CDS 733 or [zoom](https://nyu.zoom.us/my/xiangpan))
