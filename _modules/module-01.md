@@ -11,7 +11,7 @@ Jan 22
     - Textbook: [JM Ch4.1](https://web.stanford.edu/~jurafsky/slp3/4.pdf), [JM Ch5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 29
-: [Word embedding [online]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec02/main.pdf)
+: [Word embedding [online]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec02/main.pdf) [[annotated]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec02/main-annotated.pdf)
   : 
 : - Distributed representation of words
   - Neural network basics
