@@ -11,8 +11,8 @@ Jan 22
     - Textbook: [JM Ch4.1](https://web.stanford.edu/~jurafsky/slp3/4.pdf), [JM Ch5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 29
-: [Word embedding [online]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec02/main.pdf) [[annotated]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec02/main-annotated.pdf)
-  : 
+: [Word embedding [online]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec02/main.pdf) 
+  : [[annotated pdf]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec02/main-annotated.pdf)
 : - Distributed representation of words
   - Neural network basics
   - Additional readings
@@ -20,7 +20,7 @@ Jan 29
     - Original word2vec paper: [Efficient estimation of word representations in vector space](https://arxiv.org/pdf/1301.3781)
 
 Feb 5
-: Sequence modeling
+: [Sequence modeling](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec03/main.pdf)
   : **HW 1 due**{: .label .label-red }  **HW 2 out**{: .label .label-green } [HW2](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/assignment/hw2/hw2.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/spring2025/assignment/hw2/hw2.pdf)
 : - RNN and its variants
   - Attention and Transformers
