@@ -29,7 +29,7 @@ Feb 5
     - Original Transformer paper: [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 
 Feb 12
-: Sequence generation
+: [Sequence generation](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec04/main.pdf)
   : 
 : - Encoder-decoder models
   - Decoding algorithms
