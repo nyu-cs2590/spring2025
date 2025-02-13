@@ -21,6 +21,7 @@ Jan 29
 
 Feb 5
 : [Sequence modeling](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec03/main.pdf)
+  : [[annotated pdf]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec03/main-annotated.pdf)
   : **HW 1 due**{: .label .label-red }  **HW 2 out**{: .label .label-green } [HW2](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/assignment/hw2/hw2.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/spring2025/assignment/hw2/hw2.pdf)
 : - RNN and its variants
   - Attention and Transformers
@@ -30,7 +31,7 @@ Feb 5
 
 Feb 12
 : [Sequence generation](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec04/main.pdf)
-  : 
+  : [[annotated pdf]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec04/main-annotated.pdf)
 : - Encoder-decoder models
   - Decoding algorithms
   - Additional readings
