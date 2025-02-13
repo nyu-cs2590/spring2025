@@ -12,7 +12,7 @@ Jan 22
 
 Jan 29
 : [Word embedding [online]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec02/main.pdf) 
-  : [[annotated pdf]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec02/main-annotated.pdf)
+  : [[annotated slides]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec02/main-annotated.pdf)
 : - Distributed representation of words
   - Neural network basics
   - Additional readings
@@ -21,8 +21,7 @@ Jan 29
 
 Feb 5
 : [Sequence modeling](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec03/main.pdf)
-  : [[annotated pdf]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec03/main-annotated.pdf)
-  : **HW 1 due**{: .label .label-red }  **HW 2 out**{: .label .label-green } [HW2](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/assignment/hw2/hw2.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/spring2025/assignment/hw2/hw2.pdf)
+  : **HW 1 due**{: .label .label-red }  **HW 2 out**{: .label .label-green } [HW2](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/assignment/hw2/hw2.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/spring2025/assignment/hw2/hw2.pdf) [[annotated slides]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec03/main-annotated.pdf)
 : - RNN and its variants
   - Attention and Transformers
   - Additional readings
@@ -31,7 +30,7 @@ Feb 5
 
 Feb 12
 : [Sequence generation](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec04/main.pdf)
-  : [[annotated pdf]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec04/main-annotated.pdf)
+  : [[annotated ]](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec04/main-annotated.pdf)
 : - Encoder-decoder models
   - Decoding algorithms
   - Additional readings
