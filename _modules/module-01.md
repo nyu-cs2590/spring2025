@@ -37,7 +37,7 @@ Feb 12
     - Original attention paper: [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
 
 Feb 19
-: Pretraining and finetuning (basics)
+: [Pretraining and finetuning (basics)](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec05/main.pdf)
   : 
 : - Tokenization
   - Architecture, objective, optimization
