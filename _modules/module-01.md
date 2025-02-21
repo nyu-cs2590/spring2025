@@ -43,10 +43,13 @@ Feb 19
   - Architecture, objective, optimization
 
 Feb 26
-: Pretraining and finetuning (advanced)
+: **Guest lecture**{: .label .label-purple } Efficient pretraining and finetuning by Haitian Jiang
   : **HW 2 due**{: .label .label-red }  **HW 3 out**{: .label .label-green }
-: - Mixed precision training
-  - Parameter-efficient finetuning
+: - Flash attention
+  - Architecture: mixture-of-experts, multi-head latent attention
+  - Mixed precision training
+  - Additional readings 
+    - [Deepseek V3 technical report](https://arxiv.org/pdf/2412.19437v1)
 
 Mar 5
 : **Guest lecture**{: .label .label-purple } Scaling language models by Nick Lourie
