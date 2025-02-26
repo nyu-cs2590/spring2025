@@ -44,7 +44,7 @@ Feb 19
 
 Feb 26
 : **Guest lecture**{: .label .label-purple } Efficient pretraining and finetuning by Haitian Jiang
-  : **HW 2 due**{: .label .label-red }  **HW 3 out**{: .label .label-green } [HW3](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/assignment/hw3/hw3.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/spring2025/assignment/hw3/hw3.pdf) [HuuggingfaceTransformers](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/Tutorials/HuggingfaceTransformers.ipynb)
+  : **HW 2 due**{: .label .label-red }  **HW 3 out**{: .label .label-green } [HW3](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/assignment/hw3/hw3.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/spring2025/assignment/hw3/hw3.pdf) [[HuggingfaceTransformers]](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/Tutorials/HuggingfaceTransformers.ipynb)
 : - Flash attention
   - Architecture: mixture-of-experts, multi-head latent attention
   - Mixed precision training
