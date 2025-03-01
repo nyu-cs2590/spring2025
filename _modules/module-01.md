@@ -50,6 +50,7 @@ Feb 26
   - Mixed precision training
   - Additional readings 
     - [Deepseek V3 technical report](https://arxiv.org/pdf/2412.19437v1)
+  - Lecture notes available on campuswire
 
 Mar 5
 : **Guest lecture**{: .label .label-purple } Scaling language models by Nick Lourie
