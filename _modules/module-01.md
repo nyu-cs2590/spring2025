@@ -50,7 +50,7 @@ Feb 26
   - Mixed precision training
   - Additional readings 
     - [Deepseek V3 technical report](https://arxiv.org/pdf/2412.19437v1)
-  - Lecture notes available on campuswire
+  - [Lecture notes](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec06/guest-haitian.pdf)
 
 Mar 5
 : **Guest lecture**{: .label .label-purple } Scaling language models by Nick Lourie
