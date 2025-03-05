@@ -55,7 +55,8 @@ Feb 26
 Mar 5
 : **Guest lecture**{: .label .label-purple } Scaling language models by Nick Lourie
   : 
-: - Emergent capabilities 
+: - [Language model basics] (https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec07/main.pdf)
+  - Emergent capabilities 
   - Scaling laws
 
 Mar 12
