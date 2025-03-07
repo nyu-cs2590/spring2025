@@ -58,6 +58,7 @@ Mar 5
 : - [Language model basics] (https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec07/main.pdf)
   - Emergent capabilities 
   - Scaling laws
+  - [Slides] (https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/lecture/lec07/20250305_scale-and-intelligence.pdf)
 
 Mar 12
 : Post-training of language models (basics)
