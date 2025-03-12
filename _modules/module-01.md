@@ -43,28 +43,26 @@ Feb 19
   - Architecture, objective, optimization
 
 Feb 26
-: **Guest lecture**{: .label .label-purple } Efficient pretraining and finetuning by Haitian Jiang
+: **Guest lecture**{: .label .label-purple } [Efficient pretraining and finetuning](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec06/guest-haitian.pdf) by Haitian Jiang
   : **HW 2 due**{: .label .label-red }  **HW 3 out**{: .label .label-green } [HW3](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/assignment/hw3/hw3.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/spring2025/assignment/hw3/hw3.pdf) [[HuggingfaceTransformers]](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/Tutorials/HuggingfaceTransformers.ipynb)
 : - Flash attention
   - Architecture: mixture-of-experts, multi-head latent attention
   - Mixed precision training
   - Additional readings 
     - [Deepseek V3 technical report](https://arxiv.org/pdf/2412.19437v1)
-  - [Lecture notes](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec06/guest-haitian.pdf)
 
 Mar 5
-: **Guest lecture**{: .label .label-purple } Scaling language models by Nick Lourie
+: **Guest lecture**{: .label .label-purple } [Scaling language models](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/lecture/lec07/20250305_scale-and-intelligence.pdf) by Nick Lourie
   : 
-: - [Language model basics] (https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec07/main.pdf)
+: - [Language model basics](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec07/main.pdf)
   - Emergent capabilities 
   - Scaling laws
-  - [Slides](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/lecture/lec07/20250305_scale-and-intelligence.pdf)
 
 Mar 12
-: Post-training of language models (basics)
+: [Post-training of language models](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec08/main.pdf) (basics)
   : 
 : - Instruction tuning
-  - RLHF basics
+  - Reinforcement learning basics
 
 Mar 19
 : Post-training of language models (advanced)
