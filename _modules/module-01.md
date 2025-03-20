@@ -66,7 +66,7 @@ Mar 12
 
 Mar 19
 : Post-training of language models (advanced)
-  : **HW 3 due**{: .label .label-red }  **HW 4 out**{: .label .label-green }
+  : **HW 3 due**{: .label .label-red }  **HW 4 out**{: .label .label-green } [HW4](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/assignment/hw4/hw4.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/spring2025/assignment/hw4/hw4.pdf)
 : - Advanced RLHF techniques
   - Alignment
 
