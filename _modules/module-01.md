@@ -59,13 +59,13 @@ Mar 5
   - Scaling laws
 
 Mar 12
-: [Post-training of language models](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec08/main.pdf) (basics)
+: [Post-training of language models (basics)](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec08/main.pdf)
   : 
 : - Instruction tuning
   - Reinforcement learning basics
 
 Mar 19
-: Post-training of language models (advanced)
+: [Post-training of language models (advanced)](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec09/main.pdf)
   : **HW 3 due**{: .label .label-red }  **HW 4 out**{: .label .label-green } [HW4](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/assignment/hw4/hw4.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/spring2025/assignment/hw4/hw4.pdf)
 : - Advanced RLHF techniques
   - Alignment
@@ -74,7 +74,7 @@ Mar 26
 : *Spring Break - No Lecture*
 
 Apr 2
-: Benchmarking and evaluation
+: [Benchmarking and evaluation](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec10/main.pdf)
   : 
 : 
 
