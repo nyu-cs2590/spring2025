@@ -79,7 +79,7 @@ Apr 2
 : 
 
 Apr 9
-: **Guest lecture**{: .label .label-purple } retrieval-augmented LM by Sewon Min (UC Berkeley)
+: **Guest lecture**{: .label .label-purple } [Retrieval-based LM at scale](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec11/main-sewon.pdf) by Sewon Min (UC Berkeley)
   : **HW 4 due**{: .label .label-red }
 
 Apr 16
