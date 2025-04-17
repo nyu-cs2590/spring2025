@@ -83,7 +83,7 @@ Apr 9
   : **HW 4 due**{: .label .label-red }
 
 Apr 16
-: **Guest lecture**{: .label .label-purple } [pretraining data by Hector Liu (MBZUAI)](https://github.com/nyu-cs2590/course-material/blob/gh-pages/spring2025/lecture/lec12/LLM360.pdf)
+: **Guest lecture**{: .label .label-purple } [Pretraining Data](https://nyu-cs2590.github.io/course-material/spring2025/lecture/lec12/LLM360.pdf) by Hector Liu (MBZUAI)
   : 
 
 Apr 23
